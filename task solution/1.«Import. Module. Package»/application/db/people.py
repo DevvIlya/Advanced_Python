@@ -1,2 +1,2 @@
-def get_employees():
-    pass
+def calculate_salary():
+    print('Информация о зарплате.')

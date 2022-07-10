@@ -1,2 +1,2 @@
 def calculate_salary():
-    pass
+    print('Информация о зарплате.')
